@@ -1,5 +1,5 @@
 
-pro = 1
+teacher = 1
 
-if pro == 1:
-    print("hello")
+if teacher == 1:
+    print("teacher is cool sigma!")
